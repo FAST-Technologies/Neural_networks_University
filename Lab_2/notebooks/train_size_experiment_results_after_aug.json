@@ -1,42 +1,42 @@
 {
     "0.2": {
-        "train_size": 958,
-        "best_val_acc": 0.96,
-        "test_accuracy": 0.96,
+        "train_size": 65,
+        "best_val_acc": 0.9733333333333334,
+        "test_accuracy": 0.9702970297029703,
         "final_val_acc": 0.9466666666666667,
-        "train_loss": 0.5286012767252195,
-        "val_loss": 0.1872739189863205
+        "train_loss": 0.3967624279168936,
+        "val_loss": 0.2717483456929525
     },
     "0.4": {
-        "train_size": 1917,
-        "best_val_acc": 0.9933333333333333,
-        "test_accuracy": 0.9933333333333333,
-        "final_val_acc": 0.9933333333333333,
-        "train_loss": 0.44758337994198905,
-        "val_loss": 0.058584110657684506
+        "train_size": 130,
+        "best_val_acc": 1.0,
+        "test_accuracy": 0.9900990099009901,
+        "final_val_acc": 0.9866666666666667,
+        "train_loss": 0.20007854608389047,
+        "val_loss": 0.06773289196193218
     },
     "0.6": {
-        "train_size": 2875,
-        "best_val_acc": 0.9866666666666667,
-        "test_accuracy": 0.9933333333333333,
-        "final_val_acc": 0.98,
-        "train_loss": 0.3486112525774085,
-        "val_loss": 0.064789947544535
-    },
-    "0.8": {
-        "train_size": 3834,
-        "best_val_acc": 1.0,
-        "test_accuracy": 1.0,
-        "final_val_acc": 0.9933333333333333,
-        "train_loss": 0.32368889345311846,
-        "val_loss": 0.03785788784618489
-    },
-    "1.0": {
-        "train_size": 4793,
+        "train_size": 195,
         "best_val_acc": 1.0,
         "test_accuracy": 1.0,
         "final_val_acc": 1.0,
-        "train_loss": 0.32176081582223004,
-        "val_loss": 0.013575810965072984
+        "train_loss": 0.17133262615937453,
+        "val_loss": 0.034833533510876195
+    },
+    "0.8": {
+        "train_size": 260,
+        "best_val_acc": 1.0,
+        "test_accuracy": 1.0,
+        "final_val_acc": 1.0,
+        "train_loss": 0.14901017741515085,
+        "val_loss": 0.028351984874655803
+    },
+    "1.0": {
+        "train_size": 325,
+        "best_val_acc": 1.0,
+        "test_accuracy": 1.0,
+        "final_val_acc": 1.0,
+        "train_loss": 0.1349126900617893,
+        "val_loss": 0.013771074501176676
     }
 }

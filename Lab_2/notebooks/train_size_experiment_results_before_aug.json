@@ -1,42 +1,42 @@
 {
     "0.2": {
-        "train_size": 958,
-        "best_val_acc": 0.98,
-        "test_accuracy": 0.98,
+        "train_size": 65,
+        "best_val_acc": 0.9733333333333334,
+        "test_accuracy": 1.0,
         "final_val_acc": 0.9733333333333334,
-        "train_loss": 0.07575879152669787,
-        "val_loss": 0.14265184946979084
+        "train_loss": 0.10257348188987145,
+        "val_loss": 0.21961348801851271
     },
     "0.4": {
-        "train_size": 1917,
+        "train_size": 130,
         "best_val_acc": 1.0,
-        "test_accuracy": 0.9933333333333333,
-        "final_val_acc": 0.9933333333333333,
-        "train_loss": 0.041588154739477266,
-        "val_loss": 0.04876041863889744
+        "test_accuracy": 1.0,
+        "final_val_acc": 1.0,
+        "train_loss": 0.040026534864535696,
+        "val_loss": 0.07178434200584888
     },
     "0.6": {
-        "train_size": 2875,
-        "best_val_acc": 0.9933333333333333,
+        "train_size": 195,
+        "best_val_acc": 1.0,
         "test_accuracy": 1.0,
-        "final_val_acc": 0.9866666666666667,
-        "train_loss": 0.031113481257272802,
-        "val_loss": 0.035212108909521096
+        "final_val_acc": 1.0,
+        "train_loss": 0.026386006482136556,
+        "val_loss": 0.03062736212586363
     },
     "0.8": {
-        "train_size": 3834,
+        "train_size": 260,
         "best_val_acc": 1.0,
-        "test_accuracy": 0.9933333333333333,
-        "final_val_acc": 0.9933333333333333,
-        "train_loss": 0.02288095338438163,
-        "val_loss": 0.024696950531797483
+        "test_accuracy": 0.9801980198019802,
+        "final_val_acc": 1.0,
+        "train_loss": 0.023902490419837146,
+        "val_loss": 0.042533778982857866
     },
     "1.0": {
-        "train_size": 4793,
+        "train_size": 325,
         "best_val_acc": 1.0,
-        "test_accuracy": 0.9866666666666667,
-        "final_val_acc": 0.9933333333333333,
-        "train_loss": 0.02009081192922423,
-        "val_loss": 0.014876041879567007
+        "test_accuracy": 1.0,
+        "final_val_acc": 1.0,
+        "train_loss": 0.018087392151355745,
+        "val_loss": 0.018107428221652906
     }
 }
